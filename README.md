@@ -12,3 +12,4 @@
 5. [Array with For Loop Programming](./array_with_for_loop.md)
 6. [While Loop Programming](./while_loop.md)
 7. [Star Pattern Programming](./star_pattern.md)
+8. [Pointer Programming](./pointer.md)
