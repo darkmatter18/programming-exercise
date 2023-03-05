@@ -9,18 +9,3 @@
 7. Write a C program to print all strong numbers between given interval using functions.
 8. Write a C program to print all Armstrong numbers between given interval using functions.
 9. Write a C program to print all perfect numbers between given interval using functions.
-10. Write a C program to find power of any number using recursion.
-11. Write a C program to print all natural numbers between 1 to n using recursion.
-12. Write a C program to print all even or odd numbers in given range using recursion.
-13. Write a C program to find sum of all natural numbers between 1 to n using recursion.
-14. Write a C program to find sum of all even or odd numbers in given range using recursion.
-15. Write a C program to find reverse of any number using recursion.
-16. Write a C program to check whether a number is palindrome or not using recursion.
-17. Write a C program to find sum of digits of a given number using recursion.
-18. Write a C program to find factorial of any number using recursion.
-19. Write a C program to generate nth Fibonacci term using recursion.
-20. Write a C program to find GCD (HCF) of two numbers using recursion.
-21. Write a C program to find LCM of two numbers using recursion.
-22. Write a C program to display all array elements using recursion.
-23. Write a C program to find sum of elements of array using recursion.
-24. Write a C program to find maximum and minimum elements in array using recursion.
