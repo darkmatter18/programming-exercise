@@ -1,8 +1,6 @@
-# Programming Exercise for beginners
+# Programming Exercise
 
-## Created by Arkadip Bhattacharya, Software Engineer
-
-### Content
+## Basic Programming
 
 1. [Basic Programming](./basic.md)
 2. [Bitwise Programming](./bitwise.md)
@@ -17,3 +15,7 @@
 11. [Function Programming](./function.md)
 12. [Recurstion Programming](./recursion.md)
 13. [File Handling](./file_handling.md)
+
+## Data Structure
+
+1. [Linked List](./linked_list.md)
